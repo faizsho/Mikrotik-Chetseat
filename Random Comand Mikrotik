@@ -1,0 +1,4 @@
+NSLOKKUP 
+'
+put [resolve www.google.com server 8.8.8.8]
+'
